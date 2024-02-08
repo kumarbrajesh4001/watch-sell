@@ -1,0 +1,104 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.color-FF8250 {
+  color: #ff8250;
+}
+
+.color-FF6020 {
+  color: #ff6020;
+}
+
+.color-FFFFFF {
+  color: #ffffff;
+}
+
+.color-gray {
+  color: gray;
+}
+
+.background-FFF4EF {
+  background-color: #fff4ef;
+  border-radius: 67px;
+}
+
+.background-FF6020 {
+  background-color: #ff6020;
+}
+
+.background-F2F2F2 {
+  background-color: #f2f2f2;
+}
+
+.background-2F2F2F {
+  background-color: #2f2f2f;
+  border-radius: 24px;
+}
+
+.rlt {
+  position: relative;
+}
+.abs {
+  position: absolute;
+}
+
+.qw {
+  width: 32rem;
+  height: 20rem;
+  border-radius: 17px;
+
+  background-color: #ffe3d8;
+}
+
+.qr {
+  width: 32.2rem;
+  height: 18rem;
+  border-radius: 17px;
+  background-color: #ffbfa6;
+}
+
+.qt {
+  width: 33rem;
+  height: 18.5rem;
+  border-radius: 17px;
+  background-color: #2f2f2f;
+}
+.pos {
+  position: relative;
+  top: -36px;
+}
+.scn {
+  background-color: #ff6020;
+  border-radius: 30px;
+  padding: 12px 34px;
+}
+.brd {
+  border-radius: 30px;
+}
+
+.frm {
+  border-radius: 24px;
+  width: 21rem;
+  padding: 9px;
+}
+
+.frmc {
+  border-radius: 24px;
+  width: 10.4rem;
+  padding: 9px;
+}
